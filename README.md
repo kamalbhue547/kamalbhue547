@@ -43,11 +43,16 @@ Current focus: **evaluating language models** and **retrieval-augmented systems*
 
 <!-- TOP-REPOS:START -->
 
-_Projects are on the way — nothing public to rank yet._
+**5** public repositories · **0** stars · **0** forks  
+<sub>Ranked by stars, then forks, then most recent push · refreshed 27 Oct 2026</sub>
 
-_This table rebuilds itself from my public repositories as soon as they exist._
-
-> **Populate it now:** **Actions** → **Update top repositories** → **Run workflow**.
+| # | Repository | Description | Stack | ★ | Last push |
+|:--:|---|---|---|:--:|:--:|
+| 1 | [**Mskamal4**](https://github.com/kamalbhue547/Mskamal4) | — | JavaScript | 0 | 2026-10-27 |
+| 2 | [**Mskamal-**](https://github.com/kamalbhue547/Mskamal-) | Software Developer \| Building cool things for the web \| Open Source E… | — | 0 | 2026-10-27 |
+| 3 | [**Mskamal3**](https://github.com/kamalbhue547/Mskamal3) | Software Developer \| Building cool things for the web \| Open Source E… | — | 0 | 2026-10-27 |
+| 4 | [**Mskamal2**](https://github.com/kamalbhue547/Mskamal2) | Software Developer \| Building cool things for the web \| Open Source E… | HTML | 0 | 2026-10-27 |
+| 5 | [**Mskamal1**](https://github.com/kamalbhue547/Mskamal1) | Software Developer \| Building cool things for the web \| Open Source E… | Go | 0 | 2026-10-26 |
 
 <!-- TOP-REPOS:END -->
 
