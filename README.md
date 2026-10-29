@@ -44,12 +44,12 @@ Current focus: **evaluating language models** and **retrieval-augmented systems*
 <!-- TOP-REPOS:START -->
 
 **5** public repositories · **0** stars · **0** forks  
-<sub>Ranked by stars, then forks, then most recent push · refreshed 28 Oct 2026</sub>
+<sub>Ranked by stars, then forks, then most recent push · refreshed 29 Oct 2026</sub>
 
 | # | Repository | Description | Stack | ★ | Last push |
 |:--:|---|---|---|:--:|:--:|
-| 1 | [**Mskamal-**](https://github.com/kamalbhue547/Mskamal-) | Software Developer \| Building cool things for the web \| Open Source E… | — | 0 | 2026-10-28 |
-| 2 | [**Mskamal4**](https://github.com/kamalbhue547/Mskamal4) | — | JavaScript | 0 | 2026-10-27 |
+| 1 | [**Mskamal4**](https://github.com/kamalbhue547/Mskamal4) | — | JavaScript | 0 | 2026-10-29 |
+| 2 | [**Mskamal-**](https://github.com/kamalbhue547/Mskamal-) | Software Developer \| Building cool things for the web \| Open Source E… | — | 0 | 2026-10-29 |
 | 3 | [**Mskamal3**](https://github.com/kamalbhue547/Mskamal3) | Software Developer \| Building cool things for the web \| Open Source E… | — | 0 | 2026-10-27 |
 | 4 | [**Mskamal2**](https://github.com/kamalbhue547/Mskamal2) | Software Developer \| Building cool things for the web \| Open Source E… | HTML | 0 | 2026-10-27 |
 | 5 | [**Mskamal1**](https://github.com/kamalbhue547/Mskamal1) | Software Developer \| Building cool things for the web \| Open Source E… | Go | 0 | 2026-10-26 |
