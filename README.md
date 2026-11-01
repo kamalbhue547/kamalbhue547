@@ -43,16 +43,17 @@ Current focus: **evaluating language models** and **retrieval-augmented systems*
 
 <!-- TOP-REPOS:START -->
 
-**5** public repositories · **0** stars · **0** forks  
-<sub>Ranked by stars, then forks, then most recent push · refreshed 31 Oct 2026</sub>
+**6** public repositories · **0** stars · **0** forks  
+<sub>Ranked by stars, then forks, then most recent push · refreshed 01 Nov 2026</sub>
 
 | # | Repository | Description | Stack | ★ | Last push |
 |:--:|---|---|---|:--:|:--:|
-| 1 | [**Mskamal-**](https://github.com/kamalbhue547/Mskamal-) | Software Developer \| Building cool things for the web \| Open Source E… | — | 0 | 2026-10-31 |
-| 2 | [**Mskamal4**](https://github.com/kamalbhue547/Mskamal4) | — | JavaScript | 0 | 2026-10-29 |
-| 3 | [**Mskamal3**](https://github.com/kamalbhue547/Mskamal3) | Software Developer \| Building cool things for the web \| Open Source E… | — | 0 | 2026-10-27 |
-| 4 | [**Mskamal2**](https://github.com/kamalbhue547/Mskamal2) | Software Developer \| Building cool things for the web \| Open Source E… | HTML | 0 | 2026-10-27 |
-| 5 | [**Mskamal1**](https://github.com/kamalbhue547/Mskamal1) | Software Developer \| Building cool things for the web \| Open Source E… | Go | 0 | 2026-10-26 |
+| 1 | [**Mskamal-**](https://github.com/kamalbhue547/Mskamal-) | Software Developer \| Building cool things for the web \| Open Source E… | — | 0 | 2026-11-01 |
+| 2 | [**Mskamal5**](https://github.com/kamalbhue547/Mskamal5) | Software Developer \| Building cool things for the web \| Open Source E… | Python | 0 | 2026-11-01 |
+| 3 | [**Mskamal4**](https://github.com/kamalbhue547/Mskamal4) | — | JavaScript | 0 | 2026-10-29 |
+| 4 | [**Mskamal3**](https://github.com/kamalbhue547/Mskamal3) | Software Developer \| Building cool things for the web \| Open Source E… | — | 0 | 2026-10-27 |
+| 5 | [**Mskamal2**](https://github.com/kamalbhue547/Mskamal2) | Software Developer \| Building cool things for the web \| Open Source E… | HTML | 0 | 2026-10-27 |
+| 6 | [**Mskamal1**](https://github.com/kamalbhue547/Mskamal1) | Software Developer \| Building cool things for the web \| Open Source E… | Go | 0 | 2026-10-26 |
 
 <!-- TOP-REPOS:END -->
 
